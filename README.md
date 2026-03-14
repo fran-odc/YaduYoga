@@ -26,8 +26,13 @@ To _maintain variety_ and _build trust_, content is categorized into four main p
 - **Promotion** : Class schedules and booking details to convert followers into clients.
   
 🚀 30-Day Action Plan
+
 [ ] Update Bio with clear calls to action (CTA).
+
 [ ] Develop brand templates for consistent typography and color usage.
+
 [ ] Pin high-impact posts: "Who You Are," "Weekly Schedule," and "Community Impact".
+
 [ ] Establish a fixed weekly booking link and schedule.
+
 [ ] Launch 3 Reels per week (7-12 seconds each).
