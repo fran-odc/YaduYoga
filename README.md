@@ -29,7 +29,7 @@ To _maintain variety_ and _build trust_, content is categorized into four main p
 | **Community** | Testimonials and group photos to build trust |
 | **Promotion** | Class schedules and booking details to convert followers into clients |
   
-🚀 30-Day Action Plan
+🚀 **30-Day Action Plan**
 
 [ ] Update Bio with clear calls to action (CTA).
 
