@@ -10,5 +10,4 @@ jobs:
       with:
         globs: "*.md"
         args: >-
-          --config:MD013,line_length=100,codeblocks=false
-          --config:MD033,allowed_elements=br
+          --disable MD013 MD033
