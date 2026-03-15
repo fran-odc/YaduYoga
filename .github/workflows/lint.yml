@@ -9,5 +9,6 @@ jobs:
       uses: DavidAnson/markdownlint-cli2-action@v13
       with:
         globs: "*.md"
-        args: >-
-          --disable MD013 MD033
+        config: |
+          "MD013": false
+          "MD033": false
