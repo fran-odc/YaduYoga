@@ -9,10 +9,6 @@ jobs:
       uses: DavidAnson/markdownlint-cli2-action@v13
       with:
         globs: "*.md"
-        config: |
-          MD013:
-            line_length: 100
-            codeblocks: false
-          MD033:
-            allowed_elements:
-            - br
+        args: >-
+          --config:MD013,line_length=100,codeblocks=false
+          --config:MD033,allowed_elements=br
