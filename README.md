@@ -25,7 +25,7 @@ a **high-growth, visually consistent brand** that converts followers into practi
 - Optimize conversion paths for class bookings and retreats.
 - Target growth from 1K to 5-10K followers within one year.
   
-**🏗 Content Pillars**
+## 🏗 Content Pillars
 
 To _maintain variety_ and _build trust_, content is categorized into four main pillars:
 
