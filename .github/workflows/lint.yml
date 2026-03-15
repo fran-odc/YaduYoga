@@ -5,6 +5,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: DavidAnson/markdownlint-cli2-action@v13
+    - name: Check Markdown
+      uses: DavidAnson/markdownlint-cli2-action@v13
       with:
         globs: "*.md"
+        config: |
+          MD013:
+            line_length: 100
+            codeblocks: false
+          MD033:
+            allowed_elements:
+            - br
