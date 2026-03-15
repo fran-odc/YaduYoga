@@ -1,5 +1,10 @@
 # 🧘‍♂️ YaduYoga Instagram Growth Blueprint
 
+[![GitHub issues](https://img.shields.io/github/issues/fran-odc/YaduYoga)](https://github.com/fran-odc/YaduYoga/issues)
+[![GitHub license](https://img.shields.io/github/license/fran-odc/YaduYoga)](https://github.com/fran-odc/YaduYoga/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/fran-odc/YaduYoga)](https://github.com/fran-odc/YaduYoga/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/fran-odc/YaduYoga)](https://github.com/fran-odc/YaduYoga/network)
+
 ## 🔎 Overview
 
 This repository contains the strategic roadmap for scaling the YaduYoga community in Île-de-France.
