@@ -32,11 +32,9 @@ To _maintain variety_ and _build trust_, content is categorized into four main p
 | **Pillars** | **Explanation** |
 | ----------- | --------------- |
 | **Authority** | Teaching clips and alignment tips to build credibility |
-| **Personality** | Sharing the refugee journey, theater connections, and
-morning routines to build emotional connection |
+| **Personality** | Sharing the refugee journey, theater connections, <br> and morning routines to build emotional connection |
 | **Community** | Testimonials and group photos to build trust |
-| **Promotion** | Class schedules and booking details to
-convert followers into clients |
+| **Promotion** | Class schedules and booking details <br> to convert followers into clients |
   
 🚀 **30-Day Action Plan**
 
